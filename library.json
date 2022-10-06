@@ -1,0 +1,23 @@
+{
+  "name": "EasyGNSS",
+  "keywords": "gnss,gps,NMEA,ublox",
+  "description": "An easy-to-use library to parse the NMEA protocol output by the GNSS receiver (Ublox) through serial port.",
+  "authors":
+  [
+    {
+      "name": "Chuan Liu",
+      "email": "liuchuanstudy@outlook.com",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/chuanstudyup/EasyGNSS.git"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": "GNSS.h"
+}
